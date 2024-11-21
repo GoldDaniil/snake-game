@@ -1,2 +1,2 @@
-gold@MacBook-Pro-Gold Desktop % g++ new_o_game.cpp -o new_o_game -lsfml-graphics -lsfml-window -lsfml-system
+gold@MacBook-Pro-Gold Desktop % g++ -std=c++11 new_o_game.cpp -o new_o_game -lsfml-graphics -lsfml-window -lsfml-system
 gold@MacBook-Pro-Gold Desktop % ./new_o_game                                                                
